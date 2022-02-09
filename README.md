@@ -1,2 +1,0 @@
-# simple-leveling-bot
-A ready to go discord.js leveling bot, all you need is included! Read the readme for instructions!
