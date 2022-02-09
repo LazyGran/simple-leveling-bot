@@ -1,0 +1,29 @@
+{
+  "name": "simple-leveling-bot",
+  "version": "1.0.0",
+  "description": "An almost ready to go discord.js leveling bot, all you need is included! Read the readme for instructions!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LazyGran/simple-leveling-bot.git"
+  },
+  "keywords": [
+    "leveling",
+    "Discord",
+    "bot"
+  ],
+  "author": "Gran",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/LazyGran/simple-leveling-bot/issues"
+  },
+  "homepage": "https://github.com/LazyGran/simple-leveling-bot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "jsonfile": "^6.1.0",
+    "random": "^3.0.6"
+  }
+}
