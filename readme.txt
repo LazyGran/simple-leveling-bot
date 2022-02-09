@@ -2,6 +2,7 @@ Hello and thank you for using my code! It may not be the best, but it gets the j
 
 
 First setup:
+Download it from GitHub and put every file into one folder 
 Enter your bot token in the token.json 
 -https://www.getdroidtips.com/discord-bot-token/ 
     That isnt my website, has some flaws. You dont need to discribe your bot in a minimun of 400 words for example, you dont have to describe him at all
